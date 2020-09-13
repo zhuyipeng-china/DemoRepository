@@ -1,0 +1,9 @@
+package com.demo.pojo;
+
+public class StudentClass {
+	
+	private String class_name;
+	private String class_code;
+	
+
+}
